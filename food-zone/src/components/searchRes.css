@@ -1,0 +1,51 @@
+.search-res-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 120px;
+}
+
+.input-res{
+    margin-top: 50px;
+    width: 60%;
+    height: 50px;
+    font-size: larger;
+}
+
+.searchMag{
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 850px;
+    color: gray;
+}
+
+.res-img{
+    width: 120px;
+    margin: 20px;
+    height: 120px;
+    border-radius: 5px;
+}
+
+.res-info{
+    padding: 10px;
+    color: gray;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.rating-icon{
+    margin-top: 15px;
+    color: gray;
+    font-size: larger;
+}
+
+.cuisines{
+   display: flex;
+}
+
+.res-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

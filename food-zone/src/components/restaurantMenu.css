@@ -1,0 +1,42 @@
+.accordion-menu{
+    width: 80%;
+    margin: 0px auto;
+}
+
+.itemImage{
+    width: 60%;
+    height: 150px;
+    margin-left: 850px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+.cart-button{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(244, 236, 236);
+    color: green;
+    font-size: larger;
+    margin-left: 865px;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.price{
+    margin-right: 250px;
+  font-size: 20px;
+  white-space: nowrap;
+}
+
+.itemRating{
+  margin-right: 250px;
+  font-size: 20px;
+  white-space: nowrap;
+}
+
+.heading{
+    color: rgba(29, 29, 29, 0.87);
+}
